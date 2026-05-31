@@ -134,12 +134,12 @@ export default function Contact() {
                 <div>
                   <div className={styles.infoLabel}>Portfolio Website</div>
                   <a 
-                    href="http://sport.byethost32.com" 
+                    href="https://salman-portfolio-wine.vercel.app/" 
                     target="_blank" 
                     rel="noopener noreferrer" 
                     className={styles.infoValue}
                   >
-                    sport.byethost32.com
+                    salman-portfolio-wine.vercel.app
                   </a>
                 </div>
               </div>
