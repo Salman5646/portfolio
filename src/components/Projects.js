@@ -41,7 +41,7 @@ export default function Projects() {
     },
 
     {
-      title: "Java Socket Multiplayer App",
+      title: "Java Socket Chat App with GUI",
       folder: "/Socket Mp",
       description: "A client-server multiplayer network infrastructure built on raw socket channels, thread concurrency, and multi-threading logic.",
       features: [

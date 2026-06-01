@@ -32,7 +32,7 @@ export default function Skills() {
     {
       title: "Core CS Concepts",
       icon: <Cpu size={24} />,
-      skills: ["Data Structures & Algorithms", "OOP", "SDLC", "Computer Networks", "HTTP / HTTPS"],
+      skills: ["Data Structures & Algorithms", "OOP", "Operating Systems (OS)", "SDLC", "Computer Networks", "HTTP / HTTPS"],
     },
   ];
 

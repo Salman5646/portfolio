@@ -36,10 +36,10 @@ export default function About() {
             <h3 className={styles.subtitle}>My Journey</h3>
             <h4 className={styles.title}>Who I Am</h4>
             <p className={styles.text}>
-              I am a <span>Frontend-focused Computer Engineering student</span> currently pursuing my B.Tech at Shah And Anchor Kutchhi Engineering College. With a strong base built during my 91.31% aggregate Diploma at VES Polytechnic, I specialize in creating responsive, smooth, and high-performance applications.
+              I am a <span>Computer Engineering student</span> currently pursuing my B.Tech at Shah And Anchor Kutchhi Engineering College. With a strong base built during my 91.31% aggregate Diploma at VES Polytechnic, I specialize in creating responsive, smooth, and high-performance applications.
             </p>
             <p className={styles.text}>
-              I enjoy bridging the gap between design and functionality. My technical skill set covers modern web standards (React, Next.js), backend integrations (Node.js, PHP, MySQL), cloud platforms (AWS), and foundational mobile development (Flutter).
+              I enjoy bridging the gap between design and functionality. I am focused on both backend and frontend development, with solid knowledge of Java and basic knowledge of Flutter. My technical skill set covers modern web standards (React, Next.js), backend integrations (Node.js, PHP, MySQL, Java), cloud platforms (AWS), and mobile development (Flutter).
             </p>
             
             <h3 className={`${styles.subtitle} ${styles.educationTitle}`} style={{ marginTop: "2rem" }}>
@@ -106,7 +106,16 @@ export default function About() {
                   <div className={styles.expHeader}>
                     <div>
                       <h4 className={styles.roleTitle}>Web Development Intern</h4>
-                      <p className={styles.company}>Insys (Support Internship)</p>
+                      <p className={styles.company}>
+                        <a 
+                          href="https://drive.google.com/file/d/17LwthJKsxEmkT2Z5CGJucaqus2YK6U6V/view?usp=sharing" 
+                          target="_blank" 
+                          rel="noopener noreferrer"
+                          style={{ color: "var(--accent-cyan)", textDecoration: "underline" }}
+                        >
+                          Insys Technologies
+                        </a>
+                      </p>
                     </div>
                     <span className={styles.date}>June 2023 – July 2023</span>
                   </div>

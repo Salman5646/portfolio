@@ -7,6 +7,7 @@ import styles from "./Hero.module.css";
 const roles = [
   "Frontend Developer",
   "Full-Stack Engineer",
+  "Java Developer",
   "Software Developer",
   "Computer Engineering Student"
 ];
@@ -94,7 +95,7 @@ export default function Hero() {
             {"I'm a "} <span className={styles.typingText}>{displayText}</span>
           </div>
           <p className={styles.description}>
-            Frontend-focused Computer Engineering student passionate about building highly interactive, responsive, and user-centric web applications. Experienced in React, Next.js, PHP/MySQL, and foundational mobile development.
+            Computer Engineering student focused on frontend and backend development, passionate about building highly interactive, responsive, and user-centric web applications. Experienced in React, Next.js, PHP/MySQL, Java, and foundational mobile development (Flutter).
           </p>
           
           <div className={styles.ctaButtons}>
